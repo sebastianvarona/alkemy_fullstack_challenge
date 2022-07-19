@@ -1,1 +1,2 @@
-# alkemy_fullstack_challenge
+# Alkemy Full Stack Challenge
+## Node.js & Express.js RESTful API
