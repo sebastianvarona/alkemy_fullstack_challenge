@@ -12,6 +12,4 @@ router.put('/data/:id', controller.putDatosById);
 
 router.delete('/data/:id', controller.deleteDatosById);
 
-router.get('/clean', controller.clean);
-
 export default router;
