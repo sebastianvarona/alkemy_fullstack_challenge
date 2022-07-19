@@ -1,0 +1,23 @@
+{
+  "name": "fullstack_challenge",
+  "version": "1.0.0",
+  "description": "Alkemy Full Stack Challenge",
+  "main": "src/server.js",
+  "repository": "git@github.com:sebastianvarona/alkemy_fullstack_challenge.git",
+  "author": "Sebastian Varona <sebastianvarona@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "nodemon": "^2.0.19",
+    "supertest": "^6.2.4"
+  }
+}
